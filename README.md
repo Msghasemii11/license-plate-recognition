@@ -106,4 +106,4 @@ The test accuracy is calculated automatically when the program runs.
 
 Machine learning and computer vision portfolio project.
 
-watch the Demo demo.mp4
+watch the demo.mp4
