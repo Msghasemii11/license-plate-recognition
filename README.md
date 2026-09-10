@@ -106,4 +106,4 @@ The test accuracy is calculated automatically when the program runs.
 
 Machine learning and computer vision portfolio project.
 
-watch the demo.mp4
+watch the https://github.com/Msghasemii11/license-plate-recognition/raw/refs/heads/main/demo.mp4
